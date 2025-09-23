@@ -1,4 +1,4 @@
-# 🗺️ Flutter Path Planning Application
+# 🌍 Mobile World Excavation – Path Planning Application
 
 This project is a **Flutter-based application** for **map-based path planning** with obstacle avoidance. It allows users to define a **working area**, **start point**, **goal point**, and **obstacles**, then runs a path planning algorithm to compute an efficient route.
 
